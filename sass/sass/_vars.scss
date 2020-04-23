@@ -1,0 +1,7 @@
+// declare kleuren
+
+$hoofdkleur : #47a;
+$lichter : lighten($hoofdkleur, 30%);
+$donkerder: darken($hoofdkleur, 10%);
+
+$padding: 1em;

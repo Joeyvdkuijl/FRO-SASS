@@ -1,0 +1,18 @@
+@import 'vars';
+
+@import 'reset';
+
+@import 'navigatie';
+
+body{
+    font-family: sans-serif;
+    background-color: pink;
+}
+
+aside{
+    background-color: $lichter;
+}
+
+footer{
+    background-color: $lichter;
+}
